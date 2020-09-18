@@ -1,2 +1,0 @@
-name=exemple.exemple
-mdp=MBNPassword67
