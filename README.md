@@ -15,11 +15,7 @@ pip install selenium
 ```
 
 # Three : create info.txt
-Create a `info.txt` file in the same directory that `main.py` with this informations :
-```
-name=your.name
-mdp=yourPassword67
-```
+Open `info.txt` file and put your MBN identifiants :
 
 # Four : Create a shortcut and make sure it's working !
 Move all downloaded files in the directory you want ("Documents" for exemple). Then "copy" `main.py` and, in your Desktop, click "Paste shortcut". That's all !
